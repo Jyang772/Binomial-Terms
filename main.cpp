@@ -1,3 +1,5 @@
+/** Written by Justin Yang **/
+
 #include <iostream>
 #include <stdio.h>
 #include <cmath>
