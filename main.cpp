@@ -1,4 +1,4 @@
-/** Written by Justin Yang **/
+/** Written by Justin Yang ---- DevPenguin **/
 
 #include <iostream>
 #include <stdio.h>
